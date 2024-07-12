@@ -1,0 +1,20 @@
+Explanation
+"You need to be connected to the database":
+This means that your current session must have an active connection to the database. It focuses on the requirement of the connection state being maintained.
+
+"You need to connect to the database":
+This instructs you to perform the action of connecting to the database. It is a directive to initiate the connection process but does not emphasize the ongoing state of being connected.
+
+Examples
+Using "be connected to":
+
+Example: "To retrieve the latest records, you need to be connected to the remote server."
+Explanation: This means that your session must maintain an active connection to the remote server while retrieving the records.
+Using "connect":
+
+Example: "Before retrieving the latest records, you need to connect to the remote server."
+Explanation: This instructs you to establish a connection to the remote server before attempting to retrieve the records.
+Combined Usage:
+
+Example: "First, connect to the remote server. Once you are connected to the server, you can retrieve the latest records."
+Explanation: This first instructs you to initiate the connection and then emphasizes that you need to maintain the connection to perform the retrieval.
